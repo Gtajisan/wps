@@ -1,4 +1,4 @@
-# wipwn
+# wps
 Hack wifi using termux (rooted)
 
 ## <a href = "https://t.me/cybersh_official/127" > Tutorial</a>
@@ -56,9 +56,9 @@ rofl0r => Biri_B@B@ => Mohammad_Alamin (Toxinum) => SH TASRIF (CYBER SH)
 
 <h3>━━━━ Connect with me ━━━━</h3>
 
-<a href="https://fb.com/cybershbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="TOXIC-VIRUS" height="30" width="40" /></a>
-<a href="https://twitter.com/cybershbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cybershbd" height="30" width="40" /></a>
-<a href="https://fb.com/cybershbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mohammad Alamin" height="30" width="40" /></a>
+<a href="https://fb.com/FRHAN MUH TASIM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="TOXIC-VIRUS" height="30" width="40" /></a>
+<a href="https://twitter.com/JISAN GTA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cybershbd" height="30" width="40" /></a>
+<a href="https://fb.com/FRHAN MUH TASIM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mohammad Alamin" height="30" width="40" /></a>
 <a href="https://instagram.com/cybershbd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akxvau" height="30" width="40" /></a>
 
 </div>
