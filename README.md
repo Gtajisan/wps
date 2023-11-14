@@ -6,25 +6,21 @@ Hack wifi using termux (rooted)
 ### Installation :
 
 ```bash
-pkg update && pkg upgrade -y
-pkg install root-repo -y
-pkg install git tsu python termux-api wpa-supplicant pixiewps iw -y
-git clone https://github.com/Gtajisan/wps
-pip install requests
-cd wps
-chmod +x wps.py
+pkg update && pkg upgrade -y && 
+pkg install root-repo -y &&
+pkg install git tsu python termux-api wpa-supplicant pixiewps iw -y &&
+git clone https://github.com/Gtajisan/wps &&
+pip install requests &&
+sudo python wps/wps.py -i wlan0 -K
+
 ```
 ### Single cmd Setup
 ```
 https://github.com/Gtajisan/wps
 ```
-#### Help : 
-```
-sudo python wps.py --help
-```
 #### Example : 
 ```
-sudo python wps/wps.py -i wlan0 -K 
+sudo python wps/wps.py -i wlan0 -K
 ```
 
 #### Note: 
