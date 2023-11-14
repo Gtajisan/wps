@@ -24,7 +24,7 @@ sudo python wps.py --help
 ```
 #### Example : 
 ```
-sudo python wps.py -i wlan0 -K
+sudo python wps/wps.py -i wlan0 -K 
 ```
 
 #### Note: 
